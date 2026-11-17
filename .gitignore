@@ -1,0 +1,7 @@
+auth.json
+*.log
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+repo/
